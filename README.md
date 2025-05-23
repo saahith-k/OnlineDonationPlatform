@@ -1,10 +1,10 @@
-# 🌐 Online Donation Platform
+#  Online Donation Platform
 
 A Java-based console application that enables donors to contribute funds, view top donors, and manage donation records efficiently. The system applies core OOP principles, Java Collections (Map, List), and custom Exception Handling to maintain transparency, integrity, and ease of use.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To develop a secure and transparent donation platform that:
 - Registers donors
@@ -14,7 +14,7 @@ To develop a secure and transparent donation platform that:
 
 ---
 
-## 📁 Package Structure
+##  Package Structure
 online_donation_platform/
 ├── src/
 │ ├── models/ # Core entities: Donor and Donation
@@ -34,7 +34,7 @@ online_donation_platform/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java 8+
 - Java Collections Framework
@@ -44,7 +44,7 @@ online_donation_platform/
 
 ---
 
-## 💡 Features
+##  Features
 
 ✅ Donor Management  
 ✅ Secure Donation with Validation  
@@ -55,7 +55,7 @@ online_donation_platform/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone or download the repository.
 2. Open the project in any Java IDE (IntelliJ, Eclipse, VS Code).
@@ -63,7 +63,7 @@ online_donation_platform/
 
 ---
 
-## 💼 Functional Overview
+##  Functional Overview
 
 ### 1. Donor Management
 - `Donor` class contains donorId, name, and email.
@@ -83,7 +83,7 @@ online_donation_platform/
 
 ---
 
-## 📌 Sample Input/Output
+##  Sample Input/Output
 
 **Input:**
 Donor Name: Saahith
@@ -100,7 +100,7 @@ You have been added to the top donor leaderboard.
 
 ---
 
-## 📦 Sample Classes
+##  Sample Classes
 
 | Class                    | Responsibility                            |
 |--------------------------|--------------------------------------------|
@@ -112,7 +112,7 @@ You have been added to the top donor leaderboard.
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂ Author
 
 **Saahith**  
 3rd Year B.Tech | Computer Science and Business Systems (CSBS)  
